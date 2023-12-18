@@ -1,0 +1,4 @@
+urang udah bikin data buat create data baru di database, nanti pas mane mau coba migrate sama ngeseed bawaanya udah bakal ada 1 data yaitu chicken steak, data lainnya nanti bisa mane tambah sendiri
+
+to-do mane yaitu :
+1. mane nyambungin ini API ke FE nya
